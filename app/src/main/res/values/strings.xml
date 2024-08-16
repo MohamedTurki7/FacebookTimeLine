@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FacebookTimeLine</string>
+    <string name="share">share</string>
+    <string name="comment">Comment</string>
+    <string name="like">Like</string>
+    <string name="_1_share">1 Share</string>
+    <string name="_12">12</string>
+    <string name="http_unblast_com_color_schemes">http://unblast.com/color-Schemes</string>
+    <string name="buckle_up_because_change_coming_to_wardpress">Buckle up,because change coming to WardPress</string>
+    <string name="point">.</string>
+    <string name="unblast">Unblast</string>
+    <string name="_2_hrs">2 hrs</string>
+</resources>
